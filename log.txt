@@ -1,0 +1,65 @@
+commit 4bbd4c41286a8f0c1914d5b158694bfe62a075a0
+Author: Rathod _ <8055shubhamrathod@gmail.com>
+Date:   Mon Jan 22 17:32:43 2024 +0530
+
+    some final changes
+
+commit 6ea7d67a4a11888502f7cc30df7d848ec04900f0
+Author: Rathod _ <8055shubhamrathod@gmail.com>
+Date:   Mon Jan 22 02:13:48 2024 +0530
+
+    homepage and login form created
+
+commit f5a85316832541db8e3eca31b05287169996be0e
+Author: Rathod _ <8055shubhamrathod@gmail.com>
+Date:   Mon Jan 22 17:39:06 2024 +0530
+
+    requirements.txt prepared
+
+commit ad48fca379fb38fde7e7b10600c0a3f6ba33cef1
+Author: Rathod _ <8055shubhamrathod@gmail.com>
+Date:   Mon Jan 22 17:32:04 2024 +0530
+
+    some final changes
+
+commit 5a14bcafe0f775df1d53fe4ba40ecadfaf6ca88a
+Author: Rathod _ <8055shubhamrathod@gmail.com>
+Date:   Mon Jan 22 11:13:04 2024 +0530
+
+    minor changes
+
+commit 3d022d84c37a1466e27462683405a2ef4af752bd
+Author: Rathod _ <8055shubhamrathod@gmail.com>
+Date:   Mon Jan 22 02:58:42 2024 +0530
+
+    some changes
+
+commit beb36e7148657d335dad78b38da3450492c4677b
+Author: Rathod _ <8055shubhamrathod@gmail.com>
+Date:   Mon Jan 22 02:47:54 2024 +0530
+
+    cors
+
+commit f6d9882126c858efdece5f9350d9c0e36535e077
+Author: Rathod _ <8055shubhamrathod@gmail.com>
+Date:   Sun Jan 21 17:54:16 2024 +0530
+
+    jwt code and patch written'
+
+commit e9e735dc16f15a73180f62e92564d5d67930db89
+Author: Rathod _ <8055shubhamrathod@gmail.com>
+Date:   Sun Jan 21 01:11:41 2024 +0530
+
+    signup and connecting to db
+
+commit 21d09b0eb30ad3c01102a0d9e018cf42f982fab8
+Author: Rathod _ <8055shubhamrathod@gmail.com>
+Date:   Sun Jan 21 00:32:37 2024 +0530
+
+    basic model-controller setup
+
+commit 6ae107e876b3c5d4a5f7748d045d39748c3613d9
+Author: Rathod _ <8055shubhamrathod@gmail.com>
+Date:   Sat Jan 20 23:45:34 2024 +0530
+
+    Added .gitignore file
